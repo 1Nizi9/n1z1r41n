@@ -29,7 +29,7 @@ https://github.com/checkra1n - checkra1n Team
 - Socials
 [Discord (New Created)](https://discord.gg/BfTPBvPWCh)
 [Discord (Backup)](https://discord.gg/UJCK8Q52sr)
-[Repo(Sileo)](sileo://source/http://45.93.250.128)
-[Repo(Zebra)](zebra://source/http://49.93.250.128)
+[RepoSileo](sileo://source/http://45.93.250.128)
+[RepoZebra](zebra://source/http://49.93.250.128)
 [Instagram](https://instagram.com/g82.kerem)
 [My Discord](https://discord.com/users/1224767483123077252)
