@@ -1,0 +1,54 @@
+﻿  dfu.cpp
+M:\repo\projekte\ra1n\ra1n\libusb.h(741,10): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „dfu.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(741,10):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(766,47): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „dfu.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(766,47):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „dfu.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(300,11): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(323,23): warning C4267: "Argument": Konvertierung von "size_t" nach "uint16_t", Datenverlust möglich
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(338,23): warning C4267: "Argument": Konvertierung von "size_t" nach "uint16_t", Datenverlust möglich
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(348,20): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  main.cpp
+M:\repo\projekte\ra1n\ra1n\libusb.h(741,10): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(741,10):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(766,47): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(766,47):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+  Code wird generiert...
+  libusb-1.0.lib(strerror.obj) : Es wurde ein mit /GL kompiliertes MSIL .netmodule oder module gefunden. Verknüpfung wird mit /LTCG erneut gestartet. Fügen Sie /LTCG zur Linkbefehlszeile hinzu, um die Linkerleistung zu erhöhen.
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /LTCG ignoriert.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+libusb-1.0.lib(strerror.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(strerror.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(descriptor.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(descriptor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(core.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(core.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(io.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(io.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(windows_common.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(windows_common.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(sync.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(sync.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(events_windows.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(events_windows.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(hotplug.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(hotplug.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(threads_windows.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(threads_windows.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(windows_winusb.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(windows_winusb.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+libusb-1.0.lib(windows_usbdk.obj) : warning LNK4099: PDB "" wurde nicht mit "libusb-1.0.lib(windows_usbdk.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  ra1n.vcxproj -> M:\repo\projekte\ra1n\x64\Debug\ra1n.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Seo Hyun-gyu\Documents\ra1n\ra1n\libusb.h(741,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\Seo Hyun-gyu\Documents\ra1n\ra1n\libusb.h(741,10): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\Seo Hyun-gyu\Documents\ra1n\ra1n\libusb.h(766,47): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\Seo Hyun-gyu\Documents\ra1n\ra1n\libusb.h(766,47): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\Seo Hyun-gyu\Documents\ra1n\ra1n\libusb.h(1259,38): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\Seo Hyun-gyu\Documents\ra1n\ra1n\libusb.h(1259,38): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  ra1n.vcxproj -> C:\Users\Seo Hyun-gyu\Documents\ra1n\Debug\ra1n.exe

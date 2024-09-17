@@ -1,0 +1,52 @@
+﻿  dfu.cpp
+M:\repo\projekte\ra1n\ra1n\libusb.h(741,10): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „dfu.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(741,10):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(766,47): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „dfu.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(766,47):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „dfu.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(300,11): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(323,23): warning C4267: "Argument": Konvertierung von "size_t" nach "uint16_t", Datenverlust möglich
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(338,23): warning C4267: "Argument": Konvertierung von "size_t" nach "uint16_t", Datenverlust möglich
+M:\repo\projekte\ra1n\ra1n\dfu.cpp(348,20): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  main.cpp
+M:\repo\projekte\ra1n\ra1n\libusb.h(741,10): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(741,10):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(766,47): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(766,47):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  (Quelldatei „main.cpp“ wird kompiliert)
+      M:\repo\projekte\ra1n\ra1n\libusb.h(1259,38):
+      Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+  
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_reset_device".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_claim_interface".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_get_device_descriptor".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_strerror".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_get_device".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_get_string_descriptor_ascii".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_open_device_with_vid_pid".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_handle_events_completed".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_alloc_transfer".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_free_transfer".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_submit_transfer".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_release_interface".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_cancel_transfer".
+dfu.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_close".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "libusb_init".
+M:\repo\projekte\ra1n\x64\Release\ra1n.exe : fatal error LNK1120: 15 nicht aufgelöste Externe
