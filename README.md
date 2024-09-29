@@ -1,3 +1,9 @@
+# n1z1r41n
+checkra1n/palera1n booter for windows
+
+# Payload
+Dumped from checkra1n v0.12.4
+
 # Instructions
 
 1. Extract the n1z1ra1nv1.zip archive.
@@ -21,13 +27,6 @@
 19. Open command prompt (cmd) and execute the command: cd n1z1r41nv1 & python3 boot.py
 21. Access the palera1n loader app from Home Screen.
 22. Disconnect your iPhone from your PC and enjoy!
-
-
-# n1z1r41n
-checkra1n/palera1n booter for windows
-
-# Payload
-Dumped from checkra1n v0.12.4
 
 # credit & Thanks
 @dora2ios - https://github.com/dora2-iOS/ra1npoc <br>
