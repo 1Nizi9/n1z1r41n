@@ -1,3 +1,28 @@
+# Instructions
+
+1. Extract the n1z1ra1nv1.zip archive.
+2. Open n1z1r41nv1 folder from the extracted archive.
+3. Move n1z1r41n.exe, libusb-1.0.dll, and zadig-2.9.exe to n1z1r41nv1 folder.
+4. Download and install [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) (DIRECT LINK) for Windows.
+5. Open cmd and execute: pip install pyusb
+6. Enter your iPhone into [DFUmode](https://theapplewiki.com/wiki/DFU_Mode).
+7. Run Zadig-2.9.exe and from Options menu select List All Devices.
+8. Connect your iDevice via USB to the PC.
+9. From Zadig's Interface list, select Apple Mobile Device (DFU Mode).
+10. Replace the WINUSB (v486.0.0.0) driver with libusbK (v3.1.0.0).
+11. Click on Replace Driver button to install the driver.
+12. Open command prompt (cmd) to run OpenRa1n Windows.
+13. Drag and drop n1z1r41n.exe to the cmd window and click enter.
+14. Go back to Zadig app and install once again the libusbK driver.
+15. Your iPhone should now have loaded pongoOS screen.
+16. From Zadig's Interface list, select next PongoOS USB Device.
+17. Replace the libusbK (v3.1.0.0) driver with libusb-win32(v1.2.7.3) driver.
+18. Click on Replace Driver button to install the driver.
+19. Open command prompt (cmd) and execute the command: cd n1z1r41nv1 & python3 boot.py
+21. Access the palera1n loader app from Home Screen.
+22. Disconnect your iPhone from your PC and enjoy!
+
+
 # n1z1r41n
 checkra1n/palera1n booter for windows
 
