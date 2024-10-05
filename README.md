@@ -54,5 +54,5 @@ https://github.com/checkra1n - checkra1n Team
 [Discord (New Created)](https://discord.gg/BfTPBvPWCh)
 [Discord (Backup)](https://discord.gg/UJCK8Q52sr)
 Repo(Sileo, Cydia & Zebra) 45.93.250.128 (Cuz I dont have a domain. If you have some suggestions, feel free to dm me :)
-[Instagram](https://instagram.com/g82.kerem)
+[Instagram](https://instagram.com/f82.kerem)
 [My Discord](https://discord.com/users/1224767483123077252)
